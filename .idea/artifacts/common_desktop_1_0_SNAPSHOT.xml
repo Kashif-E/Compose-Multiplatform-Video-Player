@@ -2,7 +2,7 @@
   <artifact type="jar" name="common-desktop-1.0-SNAPSHOT">
     <output-path>$PROJECT_DIR$/common/build/libs</output-path>
     <root id="archive" name="common-desktop-1.0-SNAPSHOT.jar">
-      <element id="module-output" name="KMPTemplate.common.desktopMain" />
+      <element id="module-output" name="ComposeVideoPlayer.common.desktopMain" />
     </root>
   </artifact>
 </component>

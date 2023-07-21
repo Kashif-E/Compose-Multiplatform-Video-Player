@@ -71,6 +71,9 @@ kotlin {
                 api(libs.androidx.coreKtx)
                 implementation(libs.ktor.android)
                 implementation(libs.koin.compose)
+                implementation("androidx.media3:media3-exoplayer:1.1.0")
+                implementation("androidx.media3:media3-exoplayer-dash:1.1.0")
+                implementation("androidx.media3:media3-ui:1.1.0")
             }
         }
         val androidUnitTest by getting {
@@ -84,6 +87,7 @@ kotlin {
                 implementation(libs.koin.core)
                 implementation(libs.ktor.java)
                 implementation(libs.koin.compose)
+                implementation("uk.co.caprica:vlcj:4.7.0")
 
             }
         }
