@@ -5,6 +5,7 @@
 Featured in  <a href= "https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=c0b6a6fd66"> Kotlin weekly </a> and <a href= "https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=78f6f6dd04"> Kotlin weeekly </a>
 
 
+
 This example demonstrates how you can use video player in your compose multiplatform app:
 <ul>
 <li> Android </li>
@@ -12,6 +13,9 @@ This example demonstrates how you can use video player in your compose multiplat
 <li> Desktop </li>
 </ul>
 
+https://youtu.be/su4L5BcONXU
+[![Sample Video]]
+(https://youtu.be/su4L5BcONXU "Sample Video")
 # Troubleshooting
 ## MacOS on Apple Chip (M1/M2)
 If you encounter the error 'pod install' command failed with code 1. run the following commands in the terminal:
