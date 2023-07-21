@@ -13,9 +13,9 @@ This example demonstrates how you can use video player in your compose multiplat
 <li> Desktop </li>
 </ul>
 
-https://youtu.be/su4L5BcONXU
-[![Sample Video]]
-(https://youtu.be/su4L5BcONXU "Sample Video")
+
+[![Video](https://img.youtube.com/vi/su4L5BcONXU/maxresdefault.jpg)](https://www.youtube.com/watch?v=su4L5BcONXU)
+
 # Troubleshooting
 ## MacOS on Apple Chip (M1/M2)
 If you encounter the error 'pod install' command failed with code 1. run the following commands in the terminal:
